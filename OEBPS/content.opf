@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0" xml:lang="ja">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:identifier id="BookId">urn:uuid:41fe5bb9-686f-47dd-8197-61fc9f817bcd</dc:identifier>
+        <dc:title>はじめての情報ネットワークⅠ 第1章 インターネットの歴史とビットの復習</dc:title>
+        <dc:language>ja</dc:language>
+        <meta property="dcterms:modified">2016-02-25T00:47:02Z</meta>
+        <dc:date>2013-09-13</dc:date>
+        <dc:rights>Copyrights &#169; NPO CCC-TIES</dc:rights>
+        <dc:creator>日置 慎治</dc:creator>
+        <dc:publisher id="publisher0">NPO CCC-TIES</dc:publisher>
+        <meta content="vol-1-images-001_cover_image_1.png" name="cover"/>
+    </metadata>
+
+    <manifest>
+        <item href="vol-1/videos/001m_0110.mp4" id="vol-1-videos-001m_0110.mp4" media-type="video/mp4"/>
+        <item href="common/images/skip_en.png" id="common-images-skip_en.png" media-type="image/png"/>
+        <item href="vol-1/images/001m_0109.png" id="vol-1-images-001m_0109.png" media-type="image/png"/>
+        <item href="common/images/cc-by-sa.png" id="common-images-cc-by-sa.png" media-type="image/png"/>
+        <item href="vol-1/videos/001m_0102.mp4" id="vol-1-videos-001m_0102.mp4" media-type="video/mp4"/>
+        <item href="vol-1/text/vol-001-014.xhtml" id="vol-1-text-vol-001-014.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/images/001m_0108.png" id="vol-1-images-001m_0108.png" media-type="image/png"/>
+        <item href="common/images/community2.png" id="common-images-community2.png" media-type="image/png"/>
+        <item href="common/styles/index.css" id="common-styles-index.css" media-type="text/css"/>
+        <item href="vol-1/text/vol-001-024.xhtml" id="vol-1-text-vol-001-024.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/styles/author.css" id="common-styles-author.css" media-type="text/css"/>
+        <item href="common/images/cc-zero.png" id="common-images-cc-zero.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-010.xhtml" id="vol-1-text-vol-001-010.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/text/vol-001-020.xhtml" id="vol-1-text-vol-001-020.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/images/b_index.png" id="common-images-b_index.png" media-type="image/png"/>
+        <item href="common/images/b_portal.png" id="common-images-b_portal.png" media-type="image/png"/>
+        <item href="common/images/b_link.png" id="common-images-b_link.png" media-type="image/png"/>
+        <item href="common/images/b_ts.png" id="common-images-b_ts.png" media-type="image/png"/>
+        <item href="vol-1/videos/001m_0103.mp4" id="vol-1-videos-001m_0103.mp4" media-type="video/mp4"/>
+        <item href="common/images/sampling-plus.png" id="common-images-sampling-plus.png" media-type="image/png"/>
+        <item href="vol-1/images/001m_0107.png" id="vol-1-images-001m_0107.png" media-type="image/png"/>
+        <item href="common/images/page_r.png" id="common-images-page_r.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-017.xhtml" id="vol-1-text-vol-001-017.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/authorImages/001_photo.png" id="common-authorImages-001_photo.png" media-type="image/png"/>
+        <item href="vol-1/videos/001m_0112.mp4" id="vol-1-videos-001m_0112.mp4" media-type="video/mp4"/>
+        <item href="common/text/vol-001-002.xhtml" id="common-text-vol-001-002.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/videos/001m_0109.mp4" id="vol-1-videos-001m_0109.mp4" media-type="video/mp4"/>
+        <item href="common/images/cc-by.png" id="common-images-cc-by.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-018.xhtml" id="vol-1-text-vol-001-018.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/text/vol-001-011.xhtml" id="vol-1-text-vol-001-011.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/videos/001m_0113.mp4" id="vol-1-videos-001m_0113.mp4" media-type="video/mp4"/>
+        <item href="common/images/app.png" id="common-images-app.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-015.xhtml" id="vol-1-text-vol-001-015.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/images/001_inside_cover.png" id="common-images-001_inside_cover.png" media-type="image/png"/>
+        <item href="vol-1/images/001m_0101.png" id="vol-1-images-001m_0101.png" media-type="image/png"/>
+        <item href="vol-1/images/001m_0114.png" id="vol-1-images-001m_0114.png" media-type="image/png"/>
+        <item href="common/text/vol-001-028.xhtml" id="common-text-vol-001-028.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/images/cc-by-nc.png" id="common-images-cc-by-nc.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-026.xhtml" id="vol-1-text-vol-001-026.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/videos/001m_0114.mp4" id="vol-1-videos-001m_0114.mp4" media-type="video/mp4"/>
+        <item href="vol-1/videos/001m_0101.mp4" id="vol-1-videos-001m_0101.mp4" media-type="video/mp4"/>
+        <item href="common/images/skip.png" id="common-images-skip.png" media-type="image/png"/>
+        <item href="common/images/community2_mover.png" id="common-images-community2_mover.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-023.xhtml" id="vol-1-text-vol-001-023.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/images/b_epub.png" id="common-images-b_epub.png" media-type="image/png"/>
+        <item href="common/images/cc-by-nd.png" id="common-images-cc-by-nd.png" media-type="image/png"/>
+        <item href="vol-1/images/001m_0113.png" id="vol-1-images-001m_0113.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-022.xhtml" id="vol-1-text-vol-001-022.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/styles/common.css" id="common-styles-common.css" media-type="text/css"/>
+        <item href="vol-1/images/001m_0112.png" id="vol-1-images-001m_0112.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-012.xhtml" id="vol-1-text-vol-001-012.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/images/001m_0104.png" id="vol-1-images-001m_0104.png" media-type="image/png"/>
+        <item href="common/text/vol-001-030.xhtml" id="common-text-vol-001-030.xhtml" media-type="application/xhtml+xml"/>
+        <item href="vol-1/videos/001m_0107.mp4" id="vol-1-videos-001m_0107.mp4" media-type="video/mp4"/>
+        <item href="vol-1/images/001m_0103.png" id="vol-1-images-001m_0103.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-019.xhtml" id="vol-1-text-vol-001-019.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/text/vol-001-025.xhtml" id="vol-1-text-vol-001-025.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/images/email.png" id="common-images-email.png" media-type="image/png"/>
+        <item href="common/images/nc-sampling-plus.png" id="common-images-nc-sampling-plus.png" media-type="image/png"/>
+        <item href="vol-1/images/001m_0102.png" id="vol-1-images-001m_0102.png" media-type="image/png"/>
+        <item href="common/text/vol-001-027.xhtml" id="common-text-vol-001-027.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/styles/cover.css" id="common-styles-cover.css" media-type="text/css"/>
+        <item href="common/images/page_l_red.png" id="common-images-page_l_red.png" media-type="image/png"/>
+        <item href="vol-1/videos/001m_0108.mp4" id="vol-1-videos-001m_0108.mp4" media-type="video/mp4"/>
+        <item href="vol-1/images/001m_0111.png" id="vol-1-images-001m_0111.png" media-type="image/png"/>
+        <item href="vol-1/videos/001m_0104.mp4" id="vol-1-videos-001m_0104.mp4" media-type="video/mp4"/>
+        <item href="common/images/cc-by-nc-nd.png" id="common-images-cc-by-nc-nd.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-013.xhtml" id="vol-1-text-vol-001-013.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/styles/document.css" id="common-styles-document.css" media-type="text/css"/>
+        <item href="vol-1/images/001m_0106.png" id="vol-1-images-001m_0106.png" media-type="image/png"/>
+        <item href="common/images/space.png" id="common-images-space.png" media-type="image/png"/>
+        <item href="vol-1/text/vol-001-001.xhtml" id="vol-1-text-vol-001-001.xhtml" media-type="application/xhtml+xml"/>
+        <item href="vol-1/text/vol-001-021.xhtml" id="vol-1-text-vol-001-021.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="common/text/vol-001-029.xhtml" id="common-text-vol-001-029.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/images/001m_0110.png" id="vol-1-images-001m_0110.png" media-type="image/png"/>
+        <item href="common/text/vol-001-003.xhtml" id="common-text-vol-001-003.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/images/001m_0105.png" id="vol-1-images-001m_0105.png" media-type="image/png"/>
+        <item href="common/images/b_quiz.png" id="common-images-b_quiz.png" media-type="image/png"/>
+        <item href="common/images/page_r_red.png" id="common-images-page_r_red.png" media-type="image/png"/>
+        <item href="vol-1/videos/001m_0111.mp4" id="vol-1-videos-001m_0111.mp4" media-type="video/mp4"/>
+        <item href="vol-1/videos/001m_0105.mp4" id="vol-1-videos-001m_0105.mp4" media-type="video/mp4"/>
+        <item href="vol-1/text/vol-001-016.xhtml" id="vol-1-text-vol-001-016.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+        <item href="vol-1/images/001_cover_image_1.png" id="vol-1-images-001_cover_image_1.png" media-type="image/png" properties="cover-image"/>
+        <item href="vol-1/videos/001m_0106.mp4" id="vol-1-videos-001m_0106.mp4" media-type="video/mp4"/>
+        <item href="common/images/cc-by-nc-sa.png" id="common-images-cc-by-nc-sa.png" media-type="image/png"/>
+        <item href="common/images/page_l.png" id="common-images-page_l.png" media-type="image/png"/>
+        <item href="nav.xhtml" id="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    </manifest>
+    <spine>
+        <itemref idref="vol-1-text-vol-001-001.xhtml"/>
+        <itemref idref="nav.xhtml"/>
+        <itemref idref="common-text-vol-001-002.xhtml"/>
+        <itemref idref="common-text-vol-001-003.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-010.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-011.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-012.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-013.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-014.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-015.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-016.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-017.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-018.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-019.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-020.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-021.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-022.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-023.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-024.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-025.xhtml"/>
+        <itemref idref="vol-1-text-vol-001-026.xhtml"/>
+        <itemref idref="common-text-vol-001-027.xhtml"/>
+        <itemref idref="common-text-vol-001-028.xhtml"/>
+        <itemref idref="common-text-vol-001-029.xhtml"/>
+        <itemref idref="common-text-vol-001-030.xhtml"/>
+    </spine>
+</package>
